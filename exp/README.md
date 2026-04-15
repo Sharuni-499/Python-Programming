@@ -43,8 +43,4 @@ Child2
 POLYMORPHISM
 Add: 5
 Mul: 6
-```
 
----
-
-Now you have Experiments 7, 8, and 9 ready! Want me to combine all three into a single lab manual README?
