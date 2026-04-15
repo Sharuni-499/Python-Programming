@@ -28,8 +28,3 @@ Text valid (case 2)
 brown dog jumps over brown hill
 ['1234']
 Valid date
-```
-
----
-
-Want me to send Experiment 9 as well?
