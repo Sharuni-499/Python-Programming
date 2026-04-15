@@ -26,8 +26,4 @@ Output
 7  Tiramisu    350    Hermes       Porsche          COD     Wolf     Pink     Jaipur       Golf   Speaker
 8  Pancakes    250    Armani       Bugatti          WT   Elephant   Orange       Goa     Boxing   Console
 9  Ice Cream   110     Rolex           KTM      Genshin      Fox    Brown     Kochi        F1     Drone
-```
 
----
-
-Now you have Experiments 7, 8, and 9 all ready! Want me to combine them into one file or create an index?
