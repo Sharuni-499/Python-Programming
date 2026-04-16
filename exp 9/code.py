@@ -15,6 +15,3 @@ data = pd.DataFrame({
 
 print(data)
 
-
-
-exp 9
