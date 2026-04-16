@@ -45,6 +45,3 @@ if check:
 else:
     print("Invalid date")
 
-
-
-exp 8
